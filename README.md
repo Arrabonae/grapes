@@ -63,10 +63,6 @@ rejection_context = "\n".join(
 
 The results of the GRAPES model show significant improvement in reasoning capabilities:
 
-0. **Dataset**:
-    - models are tested on the following dataset: https://github.com/Mihir3009/LogicBench/tree/main/data/LogicBench(Eval)
-    - questions and asnwers are a collection of 64 reasoning questions from the repository above. 
-
 1. **Accuracy Improvement**: 
    - llama3.1:8b model: 62.50% accuracy
    - GRAPES (grapes_llama3.1:8b): 78.12% accuracy
@@ -75,6 +71,10 @@ The results of the GRAPES model show significant improvement in reasoning capabi
 2. **Reasoning Quality**: The GRAPES model demonstrated more coherent and logically consistent reasoning paths.
 
 3. **Explainability**: The graph visualization provides insights into the reasoning process, enhancing the interpretability of the model's decisions. Also, the reasoning path is easily audited.
+
+4. **Dataset**:
+    - models are tested on the following dataset: https://github.com/Mihir3009/LogicBench/tree/main/data/LogicBench(Eval)
+    - questions and asnwers are a collection of 64 reasoning questions from the repository above. 
 
 ## Conclusion
 
