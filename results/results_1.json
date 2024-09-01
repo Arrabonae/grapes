@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "llama3.1:8b": "choice_3",
+    "grapes_llama3.1:8b": "choice_3",
+    "correct_answer": "choice_3"
+  },
+  {
+    "id": 2,
+    "llama3.1:8b": "choice_2",
+    "grapes_llama3.1:8b": "choice_2",
+    "correct_answer": "choice_2"
+  },
+  {
+    "id": 3,
+    "llama3.1:8b": "choice_3",
+    "grapes_llama3.1:8b": "choice_1",
+    "correct_answer": "choice_1"
+  },
+  {
+    "id": 4,
+    "llama3.1:8b": "choice_4",
+    "grapes_llama3.1:8b": "choice_4",
+    "correct_answer": "choice_4"
+  },
+  {
+    "id": 5,
+    "llama3.1:8b": "choice_2",
+    "grapes_llama3.1:8b": "choice_2",
+    "correct_answer": "choice_1"
+  },
+  {
+    "id": 6,
+    "llama3.1:8b": "choice_3",
+    "grapes_llama3.1:8b": "choice_1",
+    "correct_answer": "choice_3"
+  },
+  {
+    "id": 7,
+    "llama3.1:8b": "Choice 1",
+    "grapes_llama3.1:8b": "choice_2",
+    "correct_answer": "choice_2"
+  },
+  {
+    "id": 8,
+    "llama3.1:8b": "choice_4",
+    "grapes_llama3.1:8b": "choice_4",
+    "correct_answer": "choice_4"
+  },
+  {
+    "id": 9,
+    "llama3.1:8b": "choice_4",
+    "grapes_llama3.1:8b": "choice_4",
+    "correct_answer": "choice_4"
+  },
+  {
+    "id": 10,
+    "llama3.1:8b": "choice_3",
+    "grapes_llama3.1:8b": "choice_3",
+    "correct_answer": "choice_3"
+  },
+  {
+    "id": 11,
+    "llama3.1:8b": "choice_2",
+    "grapes_llama3.1:8b": "choice_2",
+    "correct_answer": "choice_1"
+  },
+  {
+    "id": 12,
+    "llama3.1:8b": "choice_3",
+    "grapes_llama3.1:8b": "choice_4",
+    "correct_answer": "choice_4"
+  },
+  {
+    "id": 13,
+    "llama3.1:8b": "choice_2",
+    "grapes_llama3.1:8b": "choice_3",
+    "correct_answer": "choice_3"
+  },
+  {
+    "id": 14,
+    "llama3.1:8b": "choice_2",
+    "grapes_llama3.1:8b": "choice_1",
+    "correct_answer": "choice_1"
+  },
+  {
+    "id": 15,
+    "llama3.1:8b": "choice_4",
+    "grapes_llama3.1:8b": "choice_3",
+    "correct_answer": "choice_4"
+  },
+  {
+    "id": 16,
+    "llama3.1:8b": "choice_1",
+    "grapes_llama3.1:8b": "choice_1",
+    "correct_answer": "choice_1"
+  },
+  {
+    "id": 17,
+    "llama3.1:8b": "choice_1",
+    "grapes_llama3.1:8b": "choice_1",
+    "correct_answer": "choice_1"
+  },
+  {
+    "id": 18,
+    "llama3.1:8b": "choice_1",
+    "grapes_llama3.1:8b": "choice_4",
+    "correct_answer": "choice_4"
+  },
+  {
+    "id": 19,
+    "llama3.1:8b": "choice_1",
+    "grapes_llama3.1:8b": "choice_1",
+    "correct_answer": "choice_1"
+  },
+  {
+    "id": 20,
+    "llama3.1:8b": "choice_3",
+    "grapes_llama3.1:8b": "choice_3",
+    "correct_answer": "choice_3"
+  },
+  {
+    "id": 21,
+    "llama3.1:8b": "choice_4",
+    "grapes_llama3.1:8b": "choice_4",
+    "correct_answer": "choice_4"
+  },
+  {
+    "id": 22,
+    "llama3.1:8b": "choice_3",
+    "grapes_llama3.1:8b": "choice_3",
+    "correct_answer": "choice_3"
+  },
+  {
+    "id": 23,
+    "llama3.1:8b": "choice_4",
+    "grapes_llama3.1:8b": "choice_4",
+    "correct_answer": "choice_4"
+  },
+  {
+    "id": 24,
+    "llama3.1:8b": "choice_3",
+    "grapes_llama3.1:8b": "choice_3",
+    "correct_answer": "choice_3"
+  },
+  {
+    "id": 25,
+    "llama3.1:8b": "choice_3",
+    "grapes_llama3.1:8b": "choice_1",
+    "correct_answer": "choice_3"
+  },
+  {
+    "id": 26,
+    "llama3.1:8b": "choice_3",
+    "grapes_llama3.1:8b": "choice_3",
+    "correct_answer": "choice_3"
+  },
+  {
+    "id": 27,
+    "llama3.1:8b": "choice_1",
+    "grapes_llama3.1:8b": "choice_4",
+    "correct_answer": "choice_1"
+  },
+  {
+    "id": 28,
+    "llama3.1:8b": "choice_1",
+    "grapes_llama3.1:8b": "choice_2",
+    "correct_answer": "choice_1"
+  },
+  {
+    "id": 29,
+    "llama3.1:8b": "choice_2",
+    "grapes_llama3.1:8b": "choice_1",
+    "correct_answer": "choice_2"
+  },
+  {
+    "id": 30,
+    "llama3.1:8b": "choice_4",
+    "grapes_llama3.1:8b": "choice_3",
+    "correct_answer": "choice_4"
+  },
+  {
+    "id": 31,
+    "llama3.1:8b": "choice_3",
+    "grapes_llama3.1:8b": "choice_2",
+    "correct_answer": "choice_2"
+  },
+  {
+    "id": 32,
+    "llama3.1:8b": "choice_3",
+    "grapes_llama3.1:8b": "choice_2",
+    "correct_answer": "choice_2"
+  },
+  {
+    "id": 33,
+    "llama3.1:8b": "choice_3",
+    "grapes_llama3.1:8b": "choice_4",
+    "correct_answer": "choice_3"
+  },
+  {
+    "id": 34,
+    "llama3.1:8b": "choice_4",
+    "grapes_llama3.1:8b": "choice_4",
+    "correct_answer": "choice_4"
+  },
+  {
+    "id": 35,
+    "llama3.1:8b": "choice_1",
+    "grapes_llama3.1:8b": "choice_1",
+    "correct_answer": "choice_1"
+  },
+  {
+    "id": 36,
+    "llama3.1:8b": "choice_2",
+    "grapes_llama3.1:8b": "choice_2",
+    "correct_answer": "choice_2"
+  },
+  {
+    "id": 37,
+    "llama3.1:8b": "choice_2",
+    "grapes_llama3.1:8b": "choice_2",
+    "correct_answer": "choice_2"
+  },
+  {
+    "id": 38,
+    "llama3.1:8b": "choice_3",
+    "grapes_llama3.1:8b": "choice_2",
+    "correct_answer": "choice_2"
+  },
+  {
+    "id": 39,
+    "llama3.1:8b": "choice_2",
+    "grapes_llama3.1:8b": "choice_1",
+    "correct_answer": "choice_1"
+  },
+  {
+    "id": 40,
+    "llama3.1:8b": "choice_2",
+    "grapes_llama3.1:8b": "choice_1",
+    "correct_answer": "choice_1"
+  },
+  {
+    "id": 41,
+    "llama3.1:8b": "choice_4",
+    "grapes_llama3.1:8b": "choice_4",
+    "correct_answer": "choice_4"
+  },
+  {
+    "id": 42,
+    "llama3.1:8b": "choice_3",
+    "grapes_llama3.1:8b": "choice_1",
+    "correct_answer": "choice_1"
+  },
+  {
+    "id": 43,
+    "llama3.1:8b": "choice_4",
+    "grapes_llama3.1:8b": "choice_3",
+    "correct_answer": "choice_3"
+  },
+  {
+    "id": 44,
+    "llama3.1:8b": "choice_3",
+    "grapes_llama3.1:8b": "choice_4",
+    "correct_answer": "choice_4"
+  },
+  {
+    "id": 45,
+    "llama3.1:8b": "choice_1",
+    "grapes_llama3.1:8b": "choice_1",
+    "correct_answer": "choice_1"
+  },
+  {
+    "id": 46,
+    "llama3.1:8b": "choice_2",
+    "grapes_llama3.1:8b": "choice_1",
+    "correct_answer": "choice_1"
+  },
+  {
+    "id": 47,
+    "llama3.1:8b": "choice_2",
+    "grapes_llama3.1:8b": "choice_2",
+    "correct_answer": "choice_2"
+  },
+  {
+    "id": 48,
+    "llama3.1:8b": "choice_2",
+    "grapes_llama3.1:8b": "choice_2",
+    "correct_answer": "choice_2"
+  },
+  {
+    "id": 49,
+    "llama3.1:8b": "choice_3",
+    "grapes_llama3.1:8b": "choice_1",
+    "correct_answer": "choice_3"
+  },
+  {
+    "id": 50,
+    "llama3.1:8b": "choice_3",
+    "grapes_llama3.1:8b": "choice_3",
+    "correct_answer": "choice_3"
+  },
+  {
+    "id": 51,
+    "llama3.1:8b": "choice_2",
+    "grapes_llama3.1:8b": "choice_1",
+    "correct_answer": "choice_1"
+  },
+  {
+    "id": 52,
+    "llama3.1:8b": "choice_1",
+    "grapes_llama3.1:8b": "choice_3",
+    "correct_answer": "choice_3"
+  },
+  {
+    "id": 53,
+    "llama3.1:8b": "choice_2",
+    "grapes_llama3.1:8b": "choice_1",
+    "correct_answer": "choice_1"
+  },
+  {
+    "id": 54,
+    "llama3.1:8b": "choice_4",
+    "grapes_llama3.1:8b": "choice_4",
+    "correct_answer": "choice_1"
+  },
+  {
+    "id": 55,
+    "llama3.1:8b": "choice_3",
+    "grapes_llama3.1:8b": "choice_3",
+    "correct_answer": "choice_3"
+  },
+  {
+    "id": 56,
+    "llama3.1:8b": "choice_2",
+    "grapes_llama3.1:8b": "choice_2",
+    "correct_answer": "choice_2"
+  },
+  {
+    "id": 57,
+    "llama3.1:8b": "choice_3",
+    "grapes_llama3.1:8b": "choice_2",
+    "correct_answer": "choice_2"
+  },
+  {
+    "id": 58,
+    "llama3.1:8b": "choice_2",
+    "grapes_llama3.1:8b": "choice_2",
+    "correct_answer": "choice_2"
+  },
+  {
+    "id": 59,
+    "llama3.1:8b": "choice_2",
+    "grapes_llama3.1:8b": "choice_2",
+    "correct_answer": "choice_4"
+  },
+  {
+    "id": 60,
+    "llama3.1:8b": "choice_1",
+    "grapes_llama3.1:8b": "choice_1",
+    "correct_answer": "choice_1"
+  },
+  {
+    "id": 61,
+    "llama3.1:8b": "choice_1",
+    "grapes_llama3.1:8b": "choice_2",
+    "correct_answer": "choice_1"
+  },
+  {
+    "id": 62,
+    "llama3.1:8b": "choice_2",
+    "grapes_llama3.1:8b": "choice_3",
+    "correct_answer": "choice_3"
+  },
+  {
+    "id": 63,
+    "llama3.1:8b": "choice_2",
+    "grapes_llama3.1:8b": "choice_2",
+    "correct_answer": "choice_2"
+  },
+  {
+    "id": 64,
+    "llama3.1:8b": "choice_2",
+    "grapes_llama3.1:8b": "choice_2",
+    "correct_answer": "choice_2"
+  }
+]
