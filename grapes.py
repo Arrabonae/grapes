@@ -23,7 +23,7 @@ async def mcts(question: str, max_iterations: int = 12, max_depth: int = 4) -> D
 
     print(f"Starting MCTS with max_iterations={max_iterations} and max_depth={max_depth}")
 
-    rejection_history = []  # New: Keep track of rejection reasons
+    rejection_history = []  
 
     for iteration in range(max_iterations):
         log_metric("iterations", 1)
@@ -33,7 +33,7 @@ async def mcts(question: str, max_iterations: int = 12, max_depth: int = 4) -> D
         node = root
         path = [root]
         
-        # Randomly select an initial step
+
         if root.children:
             unexplored_children = [child for child in root.children if child.visits == 0]
             if unexplored_children:
@@ -70,7 +70,7 @@ async def mcts(question: str, max_iterations: int = 12, max_depth: int = 4) -> D
                 "Answer": answer,
                 "Reason": reason,
                 "Rejection": explanation
-            })  # New: Add answer, reason, and rejection reason to history
+            }) 
             score = -1
 
         

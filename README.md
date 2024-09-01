@@ -69,6 +69,7 @@ The results of the GRAPES model show significant improvement in reasoning capabi
 1. **Accuracy Improvement**: 
    - llama3.1:8b model: 62.50% accuracy
    - GRAPES (grapes_llama3.1:8b): 78.12% accuracy
+   ![Accuracy Improvement](results/results.png)
 
 2. **Reasoning Quality**: The GRAPES model demonstrated more coherent and logically consistent reasoning paths.
 
