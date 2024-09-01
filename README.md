@@ -62,6 +62,7 @@ rejection_context = "\n".join(
 ## Results
 
 The results of the GRAPES model show significant improvement in reasoning capabilities:
+
 0. **Dataset**:
     - models are tested on the following dataset: https://github.com/Mihir3009/LogicBench/tree/main/data/LogicBench(Eval)
     - questions and asnwers are a collection of 64 reasoning questions from the repository above. 
